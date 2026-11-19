@@ -40,7 +40,7 @@ function StudentList() {
 
     const students = useContext(StudentContext);
 
-    const headingId = useId();
+    const headingId = useId();  
 
     useEffect(() => {
         console.log("Student list loaded");
