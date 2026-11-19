@@ -4,6 +4,7 @@ import Q8 from "./pages/Q8";
 import Q9 from "./pages/Q9";
 import Q10 from "./pages/Q10";
 import Q11 from "./pages/Q11";
+import Q12 from "./pages/Q12";
 
 function App() {
   return (
@@ -27,6 +28,8 @@ function App() {
 
       <Q11 />
       <hr />
+
+      <Q12 />
     </div>
   );
 }
