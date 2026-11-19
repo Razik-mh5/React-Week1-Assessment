@@ -5,7 +5,7 @@ function Q7() {
         console.log("Component Mounted");
     }, []);
 
-    return (
+    return ( 
         <div>
             <h2>Q7 - useEffect Hook</h2>
             <p>Check the browser console to see the message.</p>
