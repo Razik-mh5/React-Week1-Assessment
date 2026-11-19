@@ -2,6 +2,7 @@ import Q6 from "./pages/Q6";
 import Q7 from "./pages/Q7";
 import Q8 from "./pages/Q8";
 import Q9 from "./pages/Q9";
+import Q10 from "./pages/Q10";
 
 function App() {
   return (
@@ -19,6 +20,10 @@ function App() {
 
       <Q9 />
       <hr />
+
+      <Q10 />
+      <hr />
+
     </div>
   );
 }
